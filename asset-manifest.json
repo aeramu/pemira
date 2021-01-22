@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/nim-finder/static/css/main.3fa202c5.chunk.css",
-    "main.js": "/nim-finder/static/js/main.1e25f770.chunk.js",
-    "main.js.map": "/nim-finder/static/js/main.1e25f770.chunk.js.map",
-    "runtime-main.js": "/nim-finder/static/js/runtime-main.0f4617f6.js",
-    "runtime-main.js.map": "/nim-finder/static/js/runtime-main.0f4617f6.js.map",
-    "static/js/2.61b8d6b6.chunk.js": "/nim-finder/static/js/2.61b8d6b6.chunk.js",
-    "static/js/2.61b8d6b6.chunk.js.map": "/nim-finder/static/js/2.61b8d6b6.chunk.js.map",
-    "static/js/3.4fca1673.chunk.js": "/nim-finder/static/js/3.4fca1673.chunk.js",
-    "static/js/3.4fca1673.chunk.js.map": "/nim-finder/static/js/3.4fca1673.chunk.js.map",
-    "index.html": "/nim-finder/index.html",
-    "static/css/main.3fa202c5.chunk.css.map": "/nim-finder/static/css/main.3fa202c5.chunk.css.map",
-    "static/js/2.61b8d6b6.chunk.js.LICENSE.txt": "/nim-finder/static/js/2.61b8d6b6.chunk.js.LICENSE.txt",
-    "static/media/background.80277337.png": "/nim-finder/static/media/background.80277337.png"
+    "main.css": "/pemira/static/css/main.3fa202c5.chunk.css",
+    "main.js": "/pemira/static/js/main.69c8eb93.chunk.js",
+    "main.js.map": "/pemira/static/js/main.69c8eb93.chunk.js.map",
+    "runtime-main.js": "/pemira/static/js/runtime-main.46e6d3ab.js",
+    "runtime-main.js.map": "/pemira/static/js/runtime-main.46e6d3ab.js.map",
+    "static/js/2.61b8d6b6.chunk.js": "/pemira/static/js/2.61b8d6b6.chunk.js",
+    "static/js/2.61b8d6b6.chunk.js.map": "/pemira/static/js/2.61b8d6b6.chunk.js.map",
+    "static/js/3.4fca1673.chunk.js": "/pemira/static/js/3.4fca1673.chunk.js",
+    "static/js/3.4fca1673.chunk.js.map": "/pemira/static/js/3.4fca1673.chunk.js.map",
+    "index.html": "/pemira/index.html",
+    "static/css/main.3fa202c5.chunk.css.map": "/pemira/static/css/main.3fa202c5.chunk.css.map",
+    "static/js/2.61b8d6b6.chunk.js.LICENSE.txt": "/pemira/static/js/2.61b8d6b6.chunk.js.LICENSE.txt",
+    "static/media/background.80277337.png": "/pemira/static/media/background.80277337.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f4617f6.js",
+    "static/js/runtime-main.46e6d3ab.js",
     "static/js/2.61b8d6b6.chunk.js",
     "static/css/main.3fa202c5.chunk.css",
-    "static/js/main.1e25f770.chunk.js"
+    "static/js/main.69c8eb93.chunk.js"
   ]
 }
