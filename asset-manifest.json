@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nim-finder/static/css/main.3fa202c5.chunk.css",
-    "main.js": "/nim-finder/static/js/main.9081ac71.chunk.js",
-    "main.js.map": "/nim-finder/static/js/main.9081ac71.chunk.js.map",
+    "main.js": "/nim-finder/static/js/main.1e25f770.chunk.js",
+    "main.js.map": "/nim-finder/static/js/main.1e25f770.chunk.js.map",
     "runtime-main.js": "/nim-finder/static/js/runtime-main.0f4617f6.js",
     "runtime-main.js.map": "/nim-finder/static/js/runtime-main.0f4617f6.js.map",
     "static/js/2.61b8d6b6.chunk.js": "/nim-finder/static/js/2.61b8d6b6.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.0f4617f6.js",
     "static/js/2.61b8d6b6.chunk.js",
     "static/css/main.3fa202c5.chunk.css",
-    "static/js/main.9081ac71.chunk.js"
+    "static/js/main.1e25f770.chunk.js"
   ]
 }
